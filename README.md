@@ -1,6 +1,6 @@
 # RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields
 
-paper:
+paper: [arxiv](https://arxiv.org/abs/2304.05735)
 
 video: [YouTube](https://www.youtube.com/watch?v=sFrLXPw40wU)
 
