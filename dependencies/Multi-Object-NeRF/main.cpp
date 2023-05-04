@@ -297,7 +297,6 @@ int main(int argc, char** argv)
     string configPath = string(argv[1]);
     string datasetPath = string(argv[2]);
     int UseGTdepth = stoi(string(argv[3]));
-    cout << UseGTdepth << endl;
     if(UseGTdepth != 0 && UseGTdepth != 1)
     {
         cerr << "UseGTdepth param error..."<<endl<<"0 or 1"<<endl;
