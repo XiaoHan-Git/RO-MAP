@@ -1,0 +1,49 @@
+CMakeLists.txt.user
+
+examples/Monocular/mono_tum
+
+KeyFrameTrajectory.txt
+FrameTrajectory.txt
+groundtruth.txt
+Objects.txt
+dependencies/DBoW2/build/
+dependencies/DBoW2/lib/
+dependencies/g2o/build/
+dependencies/g2o/lib/
+dependencies/line_lbd/build/
+dependencies/line_lbd/lib/
+dependencies/Multi-Object-NeRF/build/
+dependencies/Multi-Object-NeRF/lib/
+dependencies/Multi-Object-NeRF/Core/third_party/
+dependencies/Multi-Object-NeRF/Core/build/
+dependencies/Multi-Object-NeRF/Core/lib/
+dependencies/Multi-Object-NeRF/output/*
+
+build/
+cmake-build-debug/
+
+output/*
+!output/.gitkeep
+!dependencies/Multi-Object-NeRF/output/.gitkeep
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+# Executables
+*.exe
+*.out
+*.app
+*~
+# CLion vscode
+.idea/
+.vscode/
