@@ -25,7 +25,7 @@ This repo is GPLv3 Licensed (inherit ORB-SLAM2). The Multi-Object NeRF system ba
 
 Our prerequisites include [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) and [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) requirements. If you encounter compilation problems, please refer to their issues first.
 
-* [Eigen3](http://eigen.tuxfamily.org) (test version: 3.3.7)
+* [Eigen3](http://eigen.tuxfamily.org) (test version: 3.4.0)
 * [OpenCV](http://opencv.org) (test version: 3.4.16)
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) (test version: 0.8)
 * [CMake](https://cmake.org/) (test version: 3.25)
