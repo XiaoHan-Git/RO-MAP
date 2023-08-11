@@ -110,11 +110,15 @@ We thank [Jad Abou-Chakra](https://github.com/jc211) for his support on the data
 If you found this code/work to be useful in your own research, please considering citing the following:
 
 ```bibtex
-@article{han2023ro,
-  title={RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields},
+@ARTICLE{RO-MAP,
   author={Han, Xiao and Liu, Houxuan and Ding, Yunchao and Yang, Lu},
-  journal={arXiv preprint arXiv:2304.05735},
-  year={2023}
+  journal={IEEE Robotics and Automation Letters}, 
+  title={RO-MAP: Real-Time Multi-Object Mapping With Neural Radiance Fields}, 
+  year={2023},
+  volume={8},
+  number={9},
+  pages={5950-5957},
+  doi={10.1109/LRA.2023.3302176}
 }
 ```
 
